@@ -1,0 +1,7 @@
+.project
+.settings/*
+.actionScriptProperties
+libs
+./html-template/*
+./bin-debug/*
+*.DS_Store
